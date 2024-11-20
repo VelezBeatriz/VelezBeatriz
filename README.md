@@ -1,8 +1,8 @@
 <h1 align="center">Holi Caracoli 🐌, soy Beatriz Vélez</h1>
-<h3 align="center">Técnica en Administración de Redes y futura Desarrolladora de Aplicaciones Web </h3>
+<h3 align="center">Técnica en Administración de Redes y Desarrolladora de Aplicaciones Web </h3>
 
-💡 Para que sepas un poco de mi estudié ASIR con perfil profesional en Ciberseguridad.<br/>
-🌱 Actualmente soy estudiante de **Desarrollo de Aplicaciones Web** y este es mi GitHub, en el podrás ver mis tareas de clase y **otros proyectos** que voy haciendo.
+💡 Para que sepas un poco de mi estudié **ASIR con perfil profesional en Ciberseguridad** y **Desarrollo de Aplicaciones Web**.<br/>
+🌱 Actualmente mantengo un perfil muy de *Administradora y analista de datos*.<br/>
 
 <h4 align="left">Que utilizo y me encanta ~ </h4>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
